@@ -11,6 +11,7 @@ units = {
     'mwei':         decimal.Decimal('1000000'),  # noqa: E241
     'lovelace':     decimal.Decimal('1000000'),  # noqa: E241
     'picoether':    decimal.Decimal('1000000'),  # noqa: E241
+    'compound':     decimal.Decimal('100000000'),  # noqa: E241
     'gwei':         decimal.Decimal('1000000000'),  # noqa: E241
     'shannon':      decimal.Decimal('1000000000'),  # noqa: E241
     'nanoether':    decimal.Decimal('1000000000'),  # noqa: E241
